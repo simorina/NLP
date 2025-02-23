@@ -36,4 +36,4 @@ This project demonstrates the effectiveness of fine-tuning transformer models fo
 
 ## Contact
 
-For any questions or further information, please contact [Your Name] at [your.email@example.com].
+For any questions or further information, please contact [Rinaldi Simone] at [simone.rinaldi8@studio.unibo.it].
