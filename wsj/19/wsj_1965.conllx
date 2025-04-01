@@ -1,0 +1,29 @@
+1	NCNB	_	PROPN	NNP	_	2	nn	_	_
+2	Corp.	_	PROPN	NNP	_	3	nsubj	_	_
+3	raised	_	VERB	VBD	_	0	root	_	_
+4	$	_	SYM	$	_	3	dobj	_	_
+5	1	_	NUM	CD	_	6	number	_	_
+6	billion	_	NUM	CD	_	4	num	_	_
+7	in	_	ADP	IN	_	4	prep	_	_
+8	new	_	ADJ	JJ	_	9	amod	_	_
+9	capital	_	NOUN	NN	_	7	pobj	_	_
+10	during	_	ADP	IN	_	3	prep	_	_
+11	the	_	DET	DT	_	13	det	_	_
+12	third	_	ADJ	JJ	_	13	amod	_	_
+13	quarter	_	NOUN	NN	_	10	pobj	_	_
+14	.	_	PUNCT	.	_	3	punct	_	_
+
+1	In	_	ADP	IN	_	12	prep	_	_
+2	yesterday	_	NOUN	NN	_	4	poss	_	_
+3	's	_	PART	POS	_	2	possessive	_	_
+4	edition	_	NOUN	NN	_	1	pobj	_	_
+5	,	_	PUNCT	,	_	12	punct	_	_
+6	the	_	DET	DT	_	7	det	_	_
+7	amount	_	NOUN	NN	_	12	nsubjpass	_	_
+8	of	_	ADP	IN	_	7	prep	_	_
+9	new	_	ADJ	JJ	_	10	amod	_	_
+10	capital	_	NOUN	NN	_	8	pobj	_	_
+11	was	_	AUX	VBD	_	12	auxpass	_	_
+12	misstated	_	VERB	VBN	_	0	root	_	_
+13	.	_	PUNCT	.	_	12	punct	_	_
+
