@@ -2,3 +2,5 @@
 .gradio/
 results/
 best_model.pth
+wsj/
+
